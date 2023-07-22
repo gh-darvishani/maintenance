@@ -1,0 +1,9 @@
+{
+  "logo": "./assets/logo.png",
+  "company_name": "company name",
+  "email": "test@test.com",
+  "page_title": "We’ll be back soon",
+  "end_time": "Jun 2, 2024 00:10:00",
+  "bg_color": "#333",
+  "text_color": "#fff"
+}
